@@ -9,8 +9,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-force-graph": "^1.47.1",
-    "recharts": "^2.5.0",
+    "react-force-graph": "^1.45.0",
+    "recharts": "^2.8.0",
     "html2pdf.js": "^0.10.1",
     "dom-to-image": "^2.6.0"
   },
